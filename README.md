@@ -1,6 +1,6 @@
 # Rock Paper Scissors!
 
-To become familar with the C# language, I created a simple program where a user can play the "Rock, Paper, Scissors" game against the computer. To win, the user or the computer has to be the first to score 3 points.
+To become familar with the C# language, I created a simple CLI program where a user can play the "Rock, Paper, Scissors" game against the computer. To win, the user or the computer has to be the first to score 3 points.
 
 
 ## Tasks tackled 
